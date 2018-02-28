@@ -1,0 +1,23 @@
+.titlu{
+  color: #006644;
+  font-size:70px;
+  text-align:center;
+}
+
+p{
+   text-align:center;
+   font-size:26px;
+   display:inline-block;
+   color: #BCBCBC;
+   margin: 5px;
+   border: .5px  #e6e6e6;  
+   border-radius: 5px;
+   margin-bottom: 10px;
+}
+
+h3{
+	color: #BCBCBC;
+  font-size:70px;
+  text-align:center;
+}
+
