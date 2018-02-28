@@ -1,0 +1,50 @@
+img{
+  height:210px;
+  display:block;
+  margin:auto;
+  margin-top:-45px;
+  margin-bottom:-45px;
+}
+
+
+
+h3{
+    font-family:'Lobster';
+  font-size:20px;
+  text-align:center;
+   margin-top:-10px;
+ 
+}
+
+.pb{
+  color:black;
+  display:block;
+  margin:auto;
+  margin-top:20px;
+}
+
+div{
+  display:inline;
+  margin-left:20px;
+}
+
+body{
+  background-color:#e6e6e6;
+}
+
+ul{
+  font-size:20px;
+  margin-bottom:100px;
+}
+
+button{
+  margin-bottom:15px;
+  margin-top:5px;
+  border-radius:7px;
+}
+
+input{
+  text-align:center;
+  width:100px;
+  border-radius:5px;
+}
